@@ -1,0 +1,27 @@
+body{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+#pagination{
+  display: flex;
+}
+
+#previous, #next{
+  padding: 8px 16px;
+  margin: 0 8px;
+  border: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.next{
+  
+
+}
+
+#page-number {
+  margin: 0 8px;
+}
+.Heading
+{
+  text-align: center;
+}
